@@ -38,6 +38,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="id" suppressHydrationWarning>
+      <head>
+        <meta name="facebook-domain-verification" content="6xf5r03lfgc4ypefkrq3p2ewxzxxqs" />
+      </head>
       <body
         className={`${poppins.variable} font-poppins antialiased bg-background text-foreground`}
       >
